@@ -1,3 +1,7 @@
+## 8.0.0-alpha.5
+
+- NextJS: Mock out `server-only` package for RSC - [#25263](https://github.com/storybookjs/storybook/pull/25263), thanks [@shilman](https://github.com/shilman)!
+
 ## 8.0.0-alpha.4
 
 - API: Remove stories.json support - [#25236](https://github.com/storybookjs/storybook/pull/25236), thanks [@shilman](https://github.com/shilman)!
